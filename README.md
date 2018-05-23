@@ -5,5 +5,5 @@ Download from : https://verificationacademy.com/forums/downloads/i2c-verificatio
 
 - I2C master w/ wishbone interface, mini-modification on opencores,i2c
 - UVM 1.1
-- Questasim 10.0+
+- Questasim 10.1
 

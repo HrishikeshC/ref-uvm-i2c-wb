@@ -2,7 +2,7 @@
 use Cwd;
 
 
-chdir run_dirs;
+chdir ('run_dirs');
 
 @tests = <*>;
 
